@@ -2,14 +2,10 @@ Introduction
 
 ---
 
-+ Date of birth
-  - 2000-5-27
++ Date of birth : - 2000-5-27
 + Single
-
-+ Phone
-     - 09358703261
- + Email
-      - mowna.dl@gmail.com
++ Phone : - 09358703261
+ + Email : - mowna.dl@gmail.com
  + Iran_Tehran
 
 
@@ -42,6 +38,11 @@ Learning java script
 ---
  
  ### Resume evaluation
+
+
+
+
+
 
 
 #### رزومه فارسی
