@@ -11,8 +11,8 @@
 ### Skills Highlights
 ---
 
-Familiar with c, c ++, css, html languages
-Learning java script
++Familiar with c, c ++, css, html languages
+-Learning java script
  
 ### education
 
